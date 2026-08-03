@@ -1,0 +1,23 @@
+===== SUMMARY: train =====
+Coppie analizzate: 4000
+Coppie scartate (mancanti/corrotte): 0
+
+--- Dimensioni immagini ---
+Dimensioni uniche trovate: 254
+Top 5 dimensioni piu' comuni:
+   256x256: 896 immagini
+   500x652: 740 immagini
+   512x512: 658 immagini
+   640x480: 214 immagini
+   880x1184: 156 immagini
+
+Coppie con dimensione img != maschera: 0
+Maschere NON strettamente binarie (antialiasing/grigi): 1953
+
+--- Area manipolata (white_ratio = pixel bianchi / totale) ---
+Media:   0.1761
+Mediana: 0.1580
+Min:     0.0001
+Max:     0.9967
+Std:     0.1460
+Maschere completamente vuote (white_ratio == 0): 0

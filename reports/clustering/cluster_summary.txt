@@ -1,0 +1,16 @@
+===== RIEPILOGO CLUSTERING =====
+Oggetti totali analizzati: 4996
+Cluster trovati (oggetti raggruppati con almeno un altro simile): 176
+Oggetti SENZA match (istanze uniche nel dataset): 4604 (92.2%)
+
+Top 10 cluster piu' numerosi:
+   Cluster 4: 10 oggetti
+   Cluster 70: 5 oggetti
+   Cluster 587: 5 oggetti
+   Cluster 11: 4 oggetti
+   Cluster 42: 4 oggetti
+   Cluster 50: 4 oggetti
+   Cluster 52: 4 oggetti
+   Cluster 73: 4 oggetti
+   Cluster 137: 4 oggetti
+   Cluster 19: 3 oggetti

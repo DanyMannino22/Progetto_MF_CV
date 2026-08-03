@@ -1,0 +1,29 @@
+# Ambiente virtuale
+venv/
+
+# Dataset (troppo pesante per git)
+data/train/images/*
+data/train/masks/*
+data/val/images/*
+data/val/masks/*
+data/test/images/*
+data/test/masks/*
+data/extracted_objects/*
+data/extracted_objects_predicted/*
+!data/**/.gitkeep
+
+# Checkpoint modelli (pesanti)
+checkpoints/*
+!checkpoints/.gitkeep
+
+# Log tensorboard
+runs/*
+!runs/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

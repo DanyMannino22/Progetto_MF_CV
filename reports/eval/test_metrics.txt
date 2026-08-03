@@ -1,0 +1,4 @@
+===== METRICHE FINALI SU TEST SET =====
+Loss: 0.4231
+Dice: 0.5266
+IoU:  0.4496

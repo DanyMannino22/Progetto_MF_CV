@@ -1,0 +1,23 @@
+===== SUMMARY: test =====
+Coppie analizzate: 500
+Coppie scartate (mancanti/corrotte): 0
+
+--- Dimensioni immagini ---
+Dimensioni uniche trovate: 83
+Top 5 dimensioni piu' comuni:
+   256x256: 105 immagini
+   512x512: 89 immagini
+   500x652: 83 immagini
+   1248x832: 22 immagini
+   640x480: 20 immagini
+
+Coppie con dimensione img != maschera: 0
+Maschere NON strettamente binarie (antialiasing/grigi): 247
+
+--- Area manipolata (white_ratio = pixel bianchi / totale) ---
+Media:   0.1795
+Mediana: 0.1582
+Min:     0.0002
+Max:     0.9746
+Std:     0.1485
+Maschere completamente vuote (white_ratio == 0): 0
