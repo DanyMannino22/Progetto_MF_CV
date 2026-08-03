@@ -6,7 +6,7 @@ Pipeline completa per la rilevazione di manipolazioni in immagini digitali:
 3. **Metric learning** per riconoscere se due oggetti estratti sono la stessa istanza (contrastive learning self-supervised, NT-Xent)
 4. **Inferenza end-to-end** su nuove immagini
 
-Relazione tecnica completa disponibile in [`relazione_progetto.docx`](./relazione_progetto.docx).
+Relazione tecnica completa disponibile in [`Relazione_progetto_MF_CV.pdf`](./Relazione_progetto_MF_CV.pdf).
 
 ## Struttura del repository
 
